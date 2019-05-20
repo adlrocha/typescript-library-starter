@@ -122,17 +122,3 @@ Then you may want to:
 #### What if I don't want to use coveralls or report my coverage?
 
 Remove `npm run report-coverage` from `.travis.yml`
-
-## Resources
-
-- [Write a library using TypeScript library starter](https://dev.to/alexjoverm/write-a-library-using-typescript-library-starter) by [@alexjoverm](https://github.com/alexjoverm/)
-- [📺 Create a TypeScript Library using typescript-library-starter](https://egghead.io/lessons/typescript-create-a-typescript-library-using-typescript-library-starter) by [@alexjoverm](https://github.com/alexjoverm/)
-- [Introducing TypeScript Library Starter Lite](https://blog.tonysneed.com/2017/09/15/introducing-typescript-library-starter-lite/) by [@tonysneed](https://github.com/tonysneed)
-
-## Projects using `typescript-library-starter`
-
-Here are some projects that use `typescript-library-starter`:
-
-- [NOEL - A universal, human-centric, replayable event emitter](https://github.com/lifenautjoe/noel)
-- [droppable - A library to give file dropping super-powers to any HTML element.](https://github.com/lifenautjoe/droppable)
-- [redis-messaging-manager - Pubsub messaging library, using redis and rxjs](https://github.com/tomyitav/redis-messaging-manager)
